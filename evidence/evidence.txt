@@ -67,20 +67,3 @@ RSAT-DNS-Server           Средства DNS-сервера
 
 === END OF EVIDENCE ===
 
-=== INDEX.HTML ===
-index.html NOT FOUND
-
-=== INDEX.HTML ===
-New-Item -Path "C:\inetpub\wwwroot\index.html" -ItemType File -Force -Value @"
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='UTF-8'>
-    <title>РњРѕР№ Web-СЃРµСЂРІРµСЂ</title>
-</head>
-<body>
-    <h1>РџСЂРёРІРµС‚ РѕС‚ Windows Server 2022!</h1>
-    <p>Р’РµР±-СЃРµСЂРІРµСЂ IIS СЂР°Р±РѕС‚Р°РµС‚ Рё СѓСЃРїРµС€РЅРѕ РѕС‚РґР°РµС‚ СЌС‚Сѓ СЃС‚СЂР°РЅРёС†Сѓ.</p>
-</body>
-</html>
-"@
